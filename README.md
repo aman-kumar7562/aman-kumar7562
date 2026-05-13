@@ -1,16 +1,36 @@
-## Hi there 👋
+# Aman Kumar
 
-<!--
-**aman-kumar7562/aman-kumar7562** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Observability & Reliability Engineer
 
-Here are some ideas to get you started:
+16+ years of experience in Incident Command, Production Operations, and Reliability Engineering across large-scale SaaS and enterprise environments.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Current Focus
+- Observability Engineering
+- Site Reliability Engineering (SRE)
+- Incident Response & RCA
+- AI-assisted Operational Workflows
+- Grafana / Prometheus / PagerDuty
+
+### Tools & Technologies
+- Grafana
+- Prometheus
+- ThousandEyes
+- ServiceNow
+- PagerDuty
+- AWS
+- Linux
+- Docker
+- Kubernetes (Learning)
+- Python (Learning)
+
+### Featured Work
+- AI-assisted Incident RCA Analysis
+- Webex Incident Investigation Workflows
+- Reliability & Monitoring Labs
+
+### Blogs & Learning
+- Medium: https://medium.com/@aman.kumar7562
+- LinkedIn: https://linkedin.com/in/amankumar7562
+
+---
+Building reliability-first operational practices through observability, automation, and continuous learning.
