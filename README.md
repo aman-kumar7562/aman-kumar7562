@@ -24,18 +24,15 @@
 - Python (Learning)
 
 ### Featured Work
-- ```markdown
-## Featured Work
+- AI-assisted Incident RCA workflows inspired by real-world Cisco Webex production incidents
 
-- 🔥 AI-assisted Incident RCA workflows inspired by real-world Cisco Webex production incidents
+- Observability and monitoring analysis for large-scale SaaS environments using Grafana, Prometheus, APDEX, and service health metrics
 
-- 📊 Observability and monitoring analysis for large-scale SaaS environments using Grafana, Prometheus, APDEX, and service health metrics
+- Incident command and reliability operations across distributed microservices handling millions of users globally
 
-- 🚨 Incident command and reliability operations across distributed microservices handling millions of users globally
+- Production reliability practices including alert analysis, outage coordination, failover/failback activities, and operational response workflows
 
-- ☁️ Production reliability practices including alert analysis, outage coordination, failover/failback activities, and operational response workflows
-
-- 🧠 Continuous learning and experimentation around SRE practices, observability engineering, and operational automation
+- Continuous learning and experimentation around SRE practices, observability engineering, and operational automation
   
 ### Blogs & Learning
 - Medium: https://medium.com/@aman.kumar7562
