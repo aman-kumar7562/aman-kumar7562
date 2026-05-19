@@ -2,7 +2,7 @@
 
 ## Observability & Reliability Engineer
 
-16+ years of experience in Incident Command, Production Operations, and Reliability Engineering across large-scale SaaS and enterprise environments.
+14+ years of experience in Incident Command, Production Operations, and Reliability Engineering across large-scale SaaS and enterprise environments.
 
 ### Current Focus
 - Observability Engineering
