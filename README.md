@@ -1,42 +1,95 @@
 # Aman Kumar
 
-## Observability & Reliability Engineer
+## Senior Incident Commander | Reliability Operations Lead | Service Delivery & Observability
 
-14+ years of experience in Incident Command, Production Operations, and Reliability Engineering across large-scale SaaS and enterprise environments.
+14+ years of experience leading major incident management, service restoration, operational reliability, change governance, and cross-functional coordination across large-scale SaaS and enterprise environments.
 
-### Current Focus
-- Observability Engineering
-- Site Reliability Engineering (SRE)
-- Incident Response & RCA
-- AI-assisted Operational Workflows
-- Grafana / Prometheus / PagerDuty
-
-### Tools & Technologies
-- Grafana
-- Prometheus
-- ThousandEyes
-- ServiceNow
-- PagerDuty
-- AWS
-- Linux
-- Docker
-- Kubernetes (Learning)
-- Python (Learning)
-
-### Featured Work
-- AI-assisted Incident RCA workflows inspired by real-world Cisco Webex production incidents
-
-- Observability and monitoring analysis for large-scale SaaS environments using Grafana, Prometheus, APDEX, and service health metrics
-
-- Incident command and reliability operations across distributed microservices handling millions of users globally
-
-- Production reliability practices including alert analysis, outage coordination, failover/failback activities, and operational response workflows
-
-- Continuous learning and experimentation around SRE practices, observability engineering, and operational automation
-  
-### Blogs & Learning
-- Medium: https://medium.com/@aman.kumar7562
-- LinkedIn: https://linkedin.com/in/amankumar7562
+Currently supporting Cisco Webex platform operations, driving incident command, business impact assessment, stakeholder communication, observability-led decision making, and service reliability improvements for globally distributed services.
 
 ---
-Building reliability-first operational practices through observability, automation, and continuous learning.
+
+## Current Focus
+
+* Major Incident Management
+* Reliability Operations
+* Service Delivery Excellence
+* Observability & Monitoring
+* Operational Governance
+* AI-assisted Operational Workflows
+* Service Reliability & Availability
+* Incident Response, RCA & Continuous Improvement
+
+---
+
+## Core Platforms & Technologies
+
+### Observability & Reliability
+
+* Grafana
+* Prometheus
+* ThousandEyes
+* APDEX
+* PagerDuty
+* ServiceNow
+
+### Cloud & Infrastructure
+
+* AWS
+* Linux
+* Docker
+* Kubernetes (Learning)
+
+### Automation & AI
+
+* Python (Learning)
+* MCP-enabled Operational Workflows
+* AI-assisted Incident Investigation
+* Operational Automation
+
+---
+
+## Featured Areas
+
+### Major Incident Command
+
+Leading P1/P2 incident response, stakeholder communications, impact assessment, service restoration, and post-incident reviews across large-scale SaaS environments.
+
+### Observability-Driven Operations
+
+Leveraging Grafana, Prometheus, ThousandEyes, APDEX, logs, metrics, and service telemetry to assess impact, accelerate triage, and support recovery efforts.
+
+### Reliability Operations
+
+Supporting failover/failback activities, release monitoring, service health reviews, operational readiness, and continuous reliability improvements.
+
+### AI-Assisted Operations
+
+Building MCP-enabled workflows integrating ServiceNow, Grafana, ThousandEyes, internal knowledge repositories, and operational tooling to accelerate incident triage, impact assessment, and stakeholder communication.
+
+### Continuous Learning
+
+Actively expanding expertise in SRE practices, cloud technologies, automation, distributed systems, and modern reliability engineering.
+
+---
+
+## Selected Repositories
+
+* Observability Labs (Grafana, Prometheus, Loki)
+* Terraform AWS Labs
+* SRE & Distributed Systems Learning Labs
+* AI-assisted Incident RCA Workflows
+* Reliability Engineering Experiments
+
+---
+
+## Blogs & Learning
+
+Medium:
+https://medium.com/@aman.kumar7562
+
+LinkedIn:
+https://linkedin.com/in/amankumar7562
+
+---
+
+Building reliable services through operational excellence, observability, incident leadership, automation, and continuous improvement.
